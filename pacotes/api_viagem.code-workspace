@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../aulafrontend"
+		},
+		{
+			"path": "../../python-senac-uc3/Introdution_django/exemplo_01"
+		}
+	],
+	"settings": {}
+}
